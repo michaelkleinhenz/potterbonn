@@ -12,6 +12,8 @@ In `Ablauf- und Materialplan.xlsx` ist der Ablauf, die Rätsel und die einzelnen
 
 Weiterhin werden 5 Edelsteine benötigt, ein Taschenspiegel, einen UV-Stift plus UV-Lampe und ein Buch (verwendet wurde beispielsweise eines der erhältlichen Harry Potter Schulbücher). Zusätzlich zu den für die Lösung benötigten Materialien sollte noch passendes Deko-Material hinzugefügt werden, z.B. weitere Einlagen in das Buch, Münzen in den Boxen und Ähnliches.
 
+Im Ordner `Finale` befindet sich eine Webseite mit der "Geschafft"-Nachricht, die unter der Adresse in Dokument `d10` erreichbar sein muss. Hier kann aber z.B. auch auf ein YouTube-Video mit einer Nachricht verlinkt werden. Lasst eurer Kreativität hier freien Lauf :-)
+
 # Fonts and Font-Lizenzen
 
 ## Charlotte Southern
