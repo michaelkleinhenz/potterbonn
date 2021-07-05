@@ -14,6 +14,41 @@ Weiterhin werden 5 Edelsteine benötigt, ein Taschenspiegel, einen UV-Stift plus
 
 Im Ordner `Finale` befindet sich eine Webseite mit der "Geschafft"-Nachricht, die unter der Adresse in Dokument `d10` erreichbar sein muss. Hier kann aber z.B. auch auf ein YouTube-Video mit einer Nachricht verlinkt werden. Lasst eurer Kreativität hier freien Lauf :-)
 
+# Material
+
+Für die Gestaltung wurden verschiedene Materialien und Artefakte verwendet. Hier ein paar Links mit Bezugsquellen, aber auch hier gilt, der Kreativität sollte da keine Grenze gesetzt werden.
+
+(Links können ggf. defekt sein, falls der Artikel nicht mehr verfügbar ist)
+
+* Pergamentpapier 
+  https://www.amazon.de/gp/product/B076H4TQVF
+* Taschenspiegel
+  https://www.amazon.de/gp/product/B01NGZRIFD
+* Hogwarts Schulbücher
+  https://www.amazon.de/gp/product/1526620308
+* Goldmünzen
+  https://de.aliexpress.com/item/1005001703506035.html
+* Vintage-Sticker
+  https://de.aliexpress.com/item/1005001398367082.html
+  https://de.aliexpress.com/item/1005001935293237.html
+* Vintage-Briefumschläge
+  https://de.aliexpress.com/item/32849809697.html
+* Zahnräder
+  https://de.aliexpress.com/item/33008184732.html
+  https://de.aliexpress.com/item/32949567640.html
+* Edelsteine
+  https://de.aliexpress.com/item/4000389081173.html
+* Siegelstempel
+  https://de.aliexpress.com/item/1005001795372360.html
+* Boxen
+  https://de.aliexpress.com/item/1005001877325348.html
+  https://de.aliexpress.com/item/4000302404491.html 
+  (Nanu Nana ist auch eine gute Quelle für Boxen)
+* Schlösser
+  https://de.aliexpress.com/item/4000127590715.html
+  https://de.aliexpress.com/item/1005001604676474.html
+  https://de.aliexpress.com/item/1005001488643826.html
+
 # Fonts and Font-Lizenzen
 
 ## Charlotte Southern
