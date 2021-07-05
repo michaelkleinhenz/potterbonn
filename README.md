@@ -48,6 +48,8 @@ Für die Gestaltung wurden verschiedene Materialien und Artefakte verwendet. Hie
   https://de.aliexpress.com/item/4000127590715.html
   https://de.aliexpress.com/item/1005001604676474.html
   https://de.aliexpress.com/item/1005001488643826.html
+* UV Stift und Taschenlampe
+  https://de.aliexpress.com/item/4001065242344.html
 
 # Fonts and Font-Lizenzen
 
