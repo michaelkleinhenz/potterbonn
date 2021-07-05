@@ -32,3 +32,11 @@ My fonts are free for personal use. If you want  to use one of my fonts for your
 junkohanhero.1001fonts.com
 dafont.com/junkohanhero.d1293
 junkohanhero.com
+
+## Pigpen Cipher
+Copyright (c) 2015, Jérémie Dupuis (jeremie.dupuis1@hotmail.com),
+with Reserved Font Name Pigpen Cipher.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
