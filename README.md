@@ -1,5 +1,7 @@
 # Potter Bonn Stadtralley
 
+*Hinweis: allle Dokumente und das weitere Material kann als ZIP-Archiv heruntergeladen werden. Dazu auf dieser Seite oben rechts auf "Code" klicken und dann auf "Download ZIP".*
+
 Dies ist ein stadtweiter Escape-Room, der in der Innenstadt Bonn gespielt werden kann. Die Rätsel beziehen sich auf Orte und Fakten zur Stadt, können aber leicht auch an andere Städte und Orte angepasst werden. Dauer der Stadtralley ist ca. 90 Minuten.
 
 Für die Ausführung werden verschlossene Boxen (Zahlen- und Schlüsselschlösser) sowie zwei "Drops" benötigt, wo die Boxen sicher hinterlegt und "gefunden" werden können. In Bonn sind dazu ein Bahnhofsschließfach und ein Paket in einer Packstation zum Einsatz gekommen. Andere "Drops" sind ebenfalls möglich.
