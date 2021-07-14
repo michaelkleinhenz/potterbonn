@@ -16,11 +16,20 @@ Weiterhin werden 5 Edelsteine benötigt, ein Taschenspiegel, einen UV-Stift plus
 
 Im Ordner `Finale` befindet sich eine Webseite mit der "Geschafft"-Nachricht, die unter der Adresse in Dokument `d10` erreichbar sein muss. Hier kann aber z.B. auch auf ein YouTube-Video mit einer Nachricht verlinkt werden. Lasst eurer Kreativität hier freien Lauf :-)
 
+Das Finale geht davon aus, dass der "Preis" ein "Zeitumkehrer"-Anhänger ist, den man bei Händlern im Netz kaufen kann. Hier kann ggf ein anderer Preis eingesetzt werden. Alternativ kann die Adresse in `d10` auch auf ein YouTube-Video verlinken. Wer keinen
+Link möchte, kann auch jede andere Nachricht in `d10` codieren. Dazu ist die Schriftart `PigPen` in `Schriftarten` zu finden.
+
+# Copyrights
+
+Dieses Material stellt ein Fanprojekt dar, das einige wenige Begriffe und Namen aus dem "Harry Potter"-Universum nutzt. Harry Potter ist ein Trademark von J.K. Rowling. Begriffe, Namen und andere Teile sind urheberrechtlich geschützt durch J.R. Rowling und Warner Bros. Ich besitze oder beanspruche keinerlei Copyrights oder andere Ansprüche auf die Bestandteile aus dem "Harry Potter"-Universum. Das gesamte Material ist nur für private Verwendung vorgesehen.
+
+Ich habe für dieses Archiv einige Bilder und Artworks durch generische Artworks ersetzt. Für die Verwendung können andere, besser passende Bilder, Logos und Stempel verwendet werden, die im Netz zu finden sind. In den Dokumenten befinden sich Hinweise, wo man alternative Logos und Artworks einfügen kann.
+
 # Material
 
 Für die Gestaltung wurden verschiedene Materialien und Artefakte verwendet. Hier ein paar Links mit Bezugsquellen, aber auch hier gilt, der Kreativität sollte da keine Grenze gesetzt werden.
 
-(Links können ggf. defekt sein, falls der Artikel nicht mehr verfügbar ist)
+(Links können ggf. defekt sein, falls der Artikel nicht mehr verfügbar ist). Die folgende Liste enthält WERBUNG (muss man leider heutzutage dazuschreiben):
 
 * Pergamentpapier 
   https://www.amazon.de/gp/product/B076H4TQVF
@@ -28,8 +37,6 @@ Für die Gestaltung wurden verschiedene Materialien und Artefakte verwendet. Hie
   https://www.amazon.de/gp/product/B01NGZRIFD
 * Hogwarts Schulbücher
   https://www.amazon.de/gp/product/1526620308
-* Goldmünzen
-  https://de.aliexpress.com/item/1005001703506035.html
 * Vintage-Sticker
   https://de.aliexpress.com/item/1005001398367082.html
   https://de.aliexpress.com/item/1005001935293237.html
@@ -52,6 +59,9 @@ Für die Gestaltung wurden verschiedene Materialien und Artefakte verwendet. Hie
   https://de.aliexpress.com/item/1005001488643826.html
 * UV Stift und Taschenlampe
   https://de.aliexpress.com/item/4001065242344.html
+
+Weitere "Harry Potter" Anhänger und anderes Deko-Material lässt sich
+bei Amazon, Elbenwald oder anderen Anbietern finden.
 
 # Fonts and Font-Lizenzen
 
